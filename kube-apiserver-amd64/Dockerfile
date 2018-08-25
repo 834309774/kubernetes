@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/kubernetes-apiserver-amd64:v1.11.0
+FROM k8s.gcr.io/heapster-amd64:v1.5.4
 MAINTAINER xiaohe 
